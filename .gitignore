@@ -1,0 +1,17 @@
+node_modules/
+/.vscode/
+coverage/
+playwright-report/
+.DS_Store
+.env
+npm-debug.log*
+package-lock.json
+yarn.lock
+.idea/
+.nyc_output/
+/.cache/
+dist/
+logs/
+*.log
+test-results/
+/.history/

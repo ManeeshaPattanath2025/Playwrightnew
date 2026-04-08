@@ -1,0 +1,1 @@
+console.log("Hello World!   This is my first JavaScript code.   I am learning JavaScript and it's really fun!   I can't wait to learn more and create amazing things with it.   ");
