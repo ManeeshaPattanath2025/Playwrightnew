@@ -10,3 +10,9 @@ console.log(r);
 const greet2=(name1)=>"hi "+name1;
 let r2=greet2("Maya")
 console.log(r2)
+
+const douleIT=n=>n*2;
+console.log(douleIT(10));
+
+const printIT=name=>console.log(name);
+printIT("Meena");
